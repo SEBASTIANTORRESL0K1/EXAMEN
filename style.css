@@ -1,0 +1,19 @@
+*{
+    .seccion1 {
+        background-color: blue;
+    }
+    .menu {
+        display: flex;
+        text-align: center;
+        justify-content: space-around;
+    }
+    .parrafo2 {
+        color: red;
+    }
+    .imagen {
+        height: 120px;
+        width: 120px;
+        display: flex;
+       align-items: center;
+}
+}
